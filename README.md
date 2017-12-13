@@ -1,8 +1,8 @@
 # finalhandler
 node
-finalhandler
+#finalhandler
 这是通过NPM注册表提供的node .js模块。安装是使用NPM install命令完成的:
-$ npm install finalhandler
+* $ npm install finalhandler
 API
 var finalhandler = require('finalhandler')
 finalhandler(req, res, [options])
